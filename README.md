@@ -3,7 +3,7 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-This cheat is pure TH Recode rename and got gassed in like 5 mins because of it being 1:1 TH Recode rename. All it took to crack it was to replace the Main Class and ModuleManager onLoad() method. The devs also have a "COD3R" role which is a pure disrespect to all the hard working developers in this community. Enjoy this sh1t
+This cheat is pure TH Recode rename and got gassed in like 5 mins because of it being 1:1 TH Recode. All it took to crack it was to replace the Main Class and ModuleManager onLoad() method. The devs also have a "COD3R" role which is a pure disrespect to all the hard working developers in this community. Enjoy this sh1t
 
 **If client crashes, use -noverify (Client issue)**
 
