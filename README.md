@@ -12,7 +12,7 @@ This cheat is pure TH Recode rename and got gassed in like 5 mins because of it 
 
 # How To Use
 1. Download the Fabric installer from [here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.20.4 & Fabric Loader 0.15.X
-2. Download Aurora-2.0.jar from this repository page and put it into your .minecraft/mods folder
+2. Download Aurora-2.0.jar from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.96.4+1.20.4) page and put it into your .minecraft/mods folder
 3. Start the game (with Fabric)
 
 # Credits
