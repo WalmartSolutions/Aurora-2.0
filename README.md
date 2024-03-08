@@ -5,7 +5,8 @@
 # Why?
 This cheat is pure TH Recode rename and got gassed in like 5 mins because of it being 1:1 TH Recode. All it took to crack it was to replace the Main Class and ModuleManager onLoad() method with the original ones from TH Recode. The devs also have a "COD3R" role in their own Discord server which is a pure disrespect to all the hard working developers in this community. Enjoy this sh1t.
 
-**If client crashes, use -noverify (Client issue)**
+## EN: Use -noverify (It is a Client issue, not ours)
+## RU: Используйте -noverify (это проблема клиента, а не наша)
 
 ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/!noverify.png?raw=true)
 
